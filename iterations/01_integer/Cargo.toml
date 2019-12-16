@@ -1,0 +1,4 @@
+[package]
+name = "rscc"
+version = "0.1.0"
+authors = ["ryanmcdermott <ryantmcdermott@gmail.com>"]
